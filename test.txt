@@ -1,0 +1,19 @@
+worker repeat 50; increment 0
+worker repeat 50; increment 0
+worker repeat 50; increment 0
+worker repeat 50; increment 0
+worker repeat 50; increment 0
+worker repeat 50; increment 0
+worker repeat 50; increment 0
+worker repeat 50; increment 0
+worker repeat 50; increment 0
+worker repeat 50; increment 0
+worker repeat 100; increment 1
+worker repeat 100; decrement 1
+worker repeat 100; increment 1
+worker repeat 100; decrement 1
+worker repeat 100; increment 1
+worker repeat 100; decrement 1
+worker msleep 200
+dispatcher_wait
+worker increment 2
