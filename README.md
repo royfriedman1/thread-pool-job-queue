@@ -1,4 +1,4 @@
-# OS HW2 – Multithreaded Dispatcher-Worker
+#Multithreaded Dispatcher-Worker
 
 Operating Systems course (TAU) – Homework 2.
 
